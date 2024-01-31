@@ -1,0 +1,6 @@
+{
+    "Twitch Channel Name (required)": "",
+    "Spotify App Client Id (optional)": "",
+    "Spotify App Client Secret (optional)": "",
+    "Twitch Chat Bot OAuth (optional)": ""
+  }
